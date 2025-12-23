@@ -7,22 +7,6 @@ The project is divided into three independent applications: **Frontend**, **Admi
 
 ## 📌 Project Overview
 
-This project replicates core Spotify-like functionalities including music browsing, audio playback, and content management via an admin dashboard.  
-Each part of the application is developed and deployed independently to ensure scalability and maintainability.
-
----
-
-## 🏗️ Project Structure
-
-# 🎵 Spotify Full-Stack Clone
-
-A full-stack Spotify-inspired music streaming application built using **React, Node.js, Express, MongoDB**, and **Cloudinary**.  
-The project is divided into three independent applications: **Frontend**, **Admin Panel**, and **Backend API**, following real-world production practices.
-
----
-
-## 📌 Project Overview
-
 This project replicates core Spotify-like functionalities, including music browsing, audio playback, and content management via an admin dashboard.  
 Each part of the application is developed and deployed independently to ensure scalability and maintainability.
 The project is currently under progress, where the attempt is to add more functionalities.
@@ -31,13 +15,11 @@ The project is currently under progress, where the attempt is to add more functi
 
 ## 🏗️ Project Structure
 
-spotify-full-stack/
-│
-├── frontend/ # User-facing Spotify UI
-├── admin/ # Admin dashboard for managing songs & albums
-├── backend/ # REST API (Node.js + Express)
+spotify-full-stack/<br />
+├── frontend/<br />
+├── admin/<br />
+├── backend/<br />
 └── README.md
-
 
 ---
 
